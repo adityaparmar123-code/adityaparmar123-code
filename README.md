@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityaparmar123-code
-- 👀 I’m interested in Web Devlopment,Frontend and Backend
+- 👀 I’m interested in Web Devlopment,Frontend
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
